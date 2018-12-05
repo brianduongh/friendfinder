@@ -1,34 +1,34 @@
 const friends = [
   {
     'name':'Morty',
-    'photo':'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg',
+    'photo':'https://vignette.wikia.nocookie.net/rickandmorty/images/c/ce/MortyTransparent.png/revision/latest?cb=20160909031949',
     'scores': [
-      5,
       1,
-      4,
-      4,
-      5,
       1,
-      2,
-      5,
-      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ]
   },
   {
     'name':'Rick',
-    'photo':'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg',
+    'photo':'https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728',
     'scores': [
       5,
-      1,
-      4,
-      4,
       5,
-      1,
-      2,
       5,
-      4,
-      1
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
     ]
   }
 ];
